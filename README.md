@@ -1,3 +1,6 @@
+# IBM RedBooks
+https://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/crse0401.html?Open
+
 # ZeroToBlockchain
 Tutorial on getting started with Blockchain on IBM Bluemix 
 
